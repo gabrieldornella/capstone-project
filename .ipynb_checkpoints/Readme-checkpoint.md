@@ -4,6 +4,8 @@ In this practical application, my goal is to compare the performance of the clas
 
 I utilized a dataset related to marketing bank products over the telephone. The dataset comes from the UCI Machine Learning repository [link](https://archive.ics.uci.edu/ml/datasets/bank+marketing).  The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns.  I used the article accompanying the dataset [here](CRISP-DM-BANK.pdf) for more information on the data and features.
 
+[Link](notebooks/ModelComparison.ipynb) to the Jupyter Notebook with all the analysis and models 
+
 ## Overall acceptance rate - Has the client subscribed a term deposit? (binary: "yes","no")
 The overall acceptance rate for this dataset is unbalanced. 88.3% of the customers did not subscribe the term deposit, 11.7% subscribed.
 
